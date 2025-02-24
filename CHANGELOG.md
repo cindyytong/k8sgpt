@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.51](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.50...v0.3.51) (2025-02-24)
+
+
+### Bug Fixes
+
+* [Bug] Filter PolicyReport ignores namespace flag ([#1355](https://github.com/k8sgpt-ai/k8sgpt/issues/1355)) ([9dcb21e](https://github.com/k8sgpt-ai/k8sgpt/commit/9dcb21e160233eb120ccf50f9b9b80c145d0e01a))
+
+
+### Other
+
+* remediating security issue ([#1381](https://github.com/k8sgpt-ai/k8sgpt/issues/1381)) ([1f95358](https://github.com/k8sgpt-ai/k8sgpt/commit/1f953585c91f8a208db3b37440e4d458b8d821eb))
+
 ## [0.3.50](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.49...v0.3.50) (2025-02-24)
 
 
